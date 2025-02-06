@@ -7,7 +7,7 @@
 # 👋 Olá! Eu sou o Edson Corrêa 🚀  
 
 ## 💡 Sobre mim  
-Sou UX Designer certificado pelo Google, com experiência em **UX/UI Design, Desenvolvimento Low-Code e Transformação Digital**. Tenho habilidades técnicas em **Figma, Adobe XD, WordPress e Webflow**, além de conhecimento em **HTML, CSS e aprofundamento em JavaScript**.  
+Tenho experiência em **UX/UI Design, Desenvolvimento Low-Code e Transformação Digital**. Tenho habilidades técnicas em **Figma, Adobe XD, WordPress e Webflow**, além de conhecimento em **HTML, CSS e aprofundamento em JavaScript**.  
 
 Atuei na modernização de pequenas empresas por meio do **Sebrae/CNPq no Brasil** e trabalhei como **desenvolvedor Low-Code e consultor educacional independente**. Atualmente, sou **freelancer** enquanto desenvolvo meu próprio produto, focado na **personalização e automação do ensino de idiomas**.  
 
@@ -34,7 +34,7 @@ Tenho uma abordagem **sistêmica e empática** no design de produtos digitais, c
 # 👋 Hi! I'm Edson Corrêa 🚀  
 
 ## 💡 About Me  
-I'm a **Google-certified UX Designer** with experience in **UX/UI Design, Low-Code Development, and Digital Transformation**. I have technical skills in **Figma, Adobe XD, WordPress, and Webflow**, as well as knowledge of **HTML, CSS, and continuous learning in JavaScript**.  
+I'm a developer and **Google-certified UX Designer** with experience in **UX/UI Design, Low-Code Development, and Digital Transformation**. I have technical skills in **Figma, Adobe XD, WordPress, and Webflow**, as well as knowledge of **HTML, CSS, and continuous learning in JavaScript**.  
 
 I have worked on modernizing small businesses through **Sebrae/CNPq in Brazil** and have experience as a **Low-Code Developer and Independent Educational Consultant**. Currently, I work as a **freelancer** while developing my own product, focused on **personalizing and automating language learning**.  
 
