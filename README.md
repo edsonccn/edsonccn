@@ -4,7 +4,7 @@
 
 
 
-# 👋 Olá! Eu sou o Edson Correa 🚀  
+# 👋 Olá! Eu sou o Edson Correa   
 
 ## 💡 Sobre mim  
 Tenho experiência em **UX/UI Design, Desenvolvimento Low-Code e Transformação Digital**. Tenho habilidades técnicas em **Figma, Adobe XD, WordPress e Webflow**, além de conhecimento em **HTML, CSS e aprofundamento em JavaScript**.  
@@ -31,7 +31,7 @@ Tenho uma abordagem **sistêmica e empática** no design de produtos digitais, c
 
 ---
 
-# 👋 Hi! I'm Edson Corrêa 🚀  
+# 👋 Hi! I'm Edson Corrêa  
 
 ## 💡 About Me  
 I'm a developer and **Google-certified UX Designer** with experience in **UX/UI Design, Low-Code Development, and Digital Transformation**. I have technical skills in **Figma, Adobe XD, WordPress, and Webflow**, as well as knowledge of **HTML, CSS, and continuous learning in JavaScript**.  
